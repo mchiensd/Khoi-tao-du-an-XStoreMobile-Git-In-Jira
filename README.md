@@ -8,7 +8,7 @@ WEBSITE-SALES---XSTOREMOBILE---ASP-MVC</br
  
  
 
-#User functions
+<h2>User functions</h2>
 - View company introduction, promotions and new products, best sellers. . .
 - View product information classified by product characteristics.
 - Allows to search products by type, characteristics, price ...
@@ -19,7 +19,7 @@ WEBSITE-SALES---XSTOREMOBILE---ASP-MVC</br
 - Contact the committee, count the number of visits have been.
 - Comment on products, news
 - View personal information, mailboxes, change passwords, recover passwords by email when forgetting passwords.
-#Admin Functions:
+<h2>Admin Functions</h2>
 - Security mechanism (Login / Logout)
 - Update information (Add, delete, edit) about menu, slider, product, news, manufacturer, introduction, site map.
 - Process orders, invoices, promotional information and advertisements.
