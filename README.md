@@ -9,22 +9,22 @@ WEBSITE-SALES---XSTOREMOBILE---ASP-MVC</br
  
 
 <h2>User functions</h2>
-- View company introduction, promotions and new products, best sellers. . .
-- View product information classified by product characteristics.
-- Allows to search products by type, characteristics, price ...
-- Allows the user to register and re-order the order, which allows payment through the network with the card system issued by the company.
-- Allow to order according to design requirements.
-- Advertising for manufacturers and other partners.
-- See news about technology.
-- Contact the committee, count the number of visits have been.
-- Comment on products, news
-- View personal information, mailboxes, change passwords, recover passwords by email when forgetting passwords.
+- View company introduction, promotions and new products, best sellers. . .</br>
+- View product information classified by product characteristics.</br>
+- Allows to search products by type, characteristics, price ...</br>
+- Allows the user to register and re-order the order, which allows payment through the network with the card system issued by the company.</br>
+- Allow to order according to design requirements.</br>
+- Advertising for manufacturers and other partners.</br>
+- See news about technology.</br>
+- Contact the committee, count the number of visits have been.</br>
+- Comment on products, news</br>
+- View personal information, mailboxes, change passwords, recover passwords by email when forgetting passwords.</br>
 <h2>Admin Functions</h2>
-- Security mechanism (Login / Logout)
-- Update information (Add, delete, edit) about menu, slider, product, news, manufacturer, introduction, site map.
-- Process orders, invoices, promotional information and advertisements.
-- Read and respond to contacts from customers
-- Admin rights, client account lock and Admin.
+- Security mechanism (Login / Logout)</br>
+- Update information (Add, delete, edit) about menu, slider, product, news, manufacturer, introduction, site map.</br>
+- Process orders, invoices, promotional information and advertisements.</br>
+- Read and respond to contacts from customers</br>
+- Admin rights, client account lock and Admin.</br>
  
  
  <h2>Some Image</h2></br>
